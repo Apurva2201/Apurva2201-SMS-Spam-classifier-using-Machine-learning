@@ -1,0 +1,2 @@
+# Apurva2201-SMS-Spam-classifier-using-Machine-learning
+mplemented a machine learning model to accurately classify SMS messages as either spam or legitimate message. This project includes data preprocessing and classification of algorithms to improve message filtering
